@@ -1,0 +1,3 @@
+/home/kael/Documents/GitHub/CIS520_Project4/Build/CMakeFiles/rebuild_cache.dir
+/home/kael/Documents/GitHub/CIS520_Project4/Build/CMakeFiles/edit_cache.dir
+/home/kael/Documents/GitHub/CIS520_Project4/Build/CMakeFiles/pt0.dir
