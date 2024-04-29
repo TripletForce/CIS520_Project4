@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/homes/kael/cis520/hw4/CIS520_Project4/src/Thread/hw4-pt0-thread.c" "CMakeFiles/pt0.dir/src/Thread/hw4-pt0-thread.c.o" "gcc" "CMakeFiles/pt0.dir/src/Thread/hw4-pt0-thread.c.o.d"
+  "/homes/kael/cis520/hw4/CIS520_Project4/src/OpenMP/open_mp.c" "CMakeFiles/hw4_openmpi.dir/src/OpenMP/open_mp.c.o" "gcc" "CMakeFiles/hw4_openmpi.dir/src/OpenMP/open_mp.c.o.d"
   )
 
 # Targets to which this target links.

@@ -1,0 +1,1 @@
+/opt/software/software/GCCcore/11.3.0/bin/cc -std=c11 -Wall -Wextra -Wshadow -Werror -fopenmp -rdynamic "CMakeFiles/hw4_thread.dir/src/Thread/hw4-pt0-thread.c.o" -o hw4_thread 

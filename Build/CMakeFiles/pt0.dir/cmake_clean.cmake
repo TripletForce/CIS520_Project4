@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/pt0.dir/src/hw4-pt0-thread.c.o"
+  "CMakeFiles/pt0.dir/src/Thread/hw4-pt0-thread.c.o"
+  "CMakeFiles/pt0.dir/src/Thread/hw4-pt0-thread.c.o.d"
   "pt0"
   "pt0.pdb"
 )

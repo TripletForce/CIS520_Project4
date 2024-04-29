@@ -6,8 +6,8 @@ project(hw4)
 # Make SURE to use -std=c11 and -std=c++11 where relevant.
 # The options specified below are required, but additional options
 # may be used.
-set(CMAKE_C_FLAGS "-std=c11 -Wall -Wextra -Wshadow -Werror")
-set(CMAKE_CXX_FLAGS "-std=c++11 -Wall -Wextra -Wshadow -Werror")
+set(CMAKE_C_FLAGS "-std=c11 -Wall -Wextra -Wshadow -Werror -fopenmp")
+set(CMAKE_CXX_FLAGS "-std=c++11 -Wall -Wextra -Wshadow -Werror -fopenmp")
 
 
 # IF WE HAD HEADER FILES THIS WOULD BE WHAT THAT LOOKED LIKE
@@ -17,7 +17,8 @@ set(CMAKE_CXX_FLAGS "-std=c++11 -Wall -Wextra -Wshadow -Werror")
 # add_library(dyn_array include/dyn_array.h src/dyn_array.c)
 
 # Compile the analysis executable.
-add_executable(pt0 src/hw4-pt0-thread.c)
+add_executable(hw4_thread src/Thread/hw4-pt0-thread.c)
+add_executable(hw4_openmp src/OpenMP/open_mp.c)
 
 # LINK LIBRARY FROM INCLUDE
 # link the dyn_array library we compiled against our analysis executable.

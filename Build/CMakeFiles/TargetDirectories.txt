@@ -1,3 +1,4 @@
-/home/kael/Documents/GitHub/CIS520_Project4/Build/CMakeFiles/rebuild_cache.dir
-/home/kael/Documents/GitHub/CIS520_Project4/Build/CMakeFiles/edit_cache.dir
-/home/kael/Documents/GitHub/CIS520_Project4/Build/CMakeFiles/pt0.dir
+/homes/kael/cis520/hw4/CIS520_Project4/Build/CMakeFiles/hw4_thread.dir
+/homes/kael/cis520/hw4/CIS520_Project4/Build/CMakeFiles/hw4_openmpi.dir
+/homes/kael/cis520/hw4/CIS520_Project4/Build/CMakeFiles/edit_cache.dir
+/homes/kael/cis520/hw4/CIS520_Project4/Build/CMakeFiles/rebuild_cache.dir
